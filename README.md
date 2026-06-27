@@ -190,6 +190,7 @@ The following files are intentionally excluded from version control:
 * User authentication
 * Trip history
 * Email itinerary sharing
+* Currency conversion for accurate total package cost
 
 ---
 
