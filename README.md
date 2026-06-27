@@ -192,7 +192,6 @@ The following files are intentionally excluded from version control:
 * Email itinerary sharing
 * Currency conversion for accurate total package cost
 
-
 ---
 
 ## Author
@@ -205,6 +204,3 @@ LinkedIn: https://www.linkedin.com/in/zainameen335/
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
