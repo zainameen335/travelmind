@@ -205,6 +205,3 @@ LinkedIn: https://www.linkedin.com/in/zainameen335/
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
