@@ -349,7 +349,8 @@ Hotel:
 Total Estimated Price:
 - {total_price}
 
-Event link: {event_link}
+⚠️ Note: Google Calendar integration is currently available only in the local development version. Public user calendar integration will be added in a future update.
+
 """
 
     return {"messages": [AIMessage(content=message)]}
